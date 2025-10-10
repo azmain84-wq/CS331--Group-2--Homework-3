@@ -34,7 +34,7 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Azmain: 
    
- - Haiyan:
+ - Haiyan:https://youtu.be/aT4GUYF7Rig
    
  - Eusan: 
    
