@@ -1,1 +1,58 @@
-# CS331--Group-2--Homework-3
+# CSCI-331-HW 4
+T-SQL Fundamental Projects for CSCI Group 2
+
+# Members
+- Azmain Abrar
+- Shiwlee Rahman
+- Izaz Chowdhury
+- Christopher Vidal
+- Eusan Mahatab
+- Zarrin Cherry
+- Haiyan Wei
+
+  # Goals
+  - Make 10 individual querries through the WorldWideImpoters database using Inner Join, Outer Joins & Cross joins. Chapter 3 material
+  - Record individual MP4 videos of your project and submit on this repo.
+  - Record in pairs and critic each other's querry submission. At minimum 5 querry review. SINGLE VIDEO.
+  - MAKE SURE WE SUBMIT sql script in .ipynb file (Azure Data Studio)
+  - Complete the gantt chart.
+
+  # Pairs
+  - Azmain :
+  - Eusan : Zarrin
+  - Shiwlee : Eusan
+  - Haiyan :
+  - Christopher
+  - Izaz
+
+ # Links To Individual Videos
+ - Shiwlee: 
+   
+ - Zarrin: 
+   
+ - Izaz: 
+   
+ - Azmain: 
+   
+ - Haiyan:
+   
+ - Eusan: 
+   
+ - Christopher: 
+
+ # Link To GROUP Peer Discussion
+- 
+
+# Individual Query Files
+- Azmain: 
+- Eusan:
+- Shiwlee:
+- Haiyan: 
+- Izaz: b
+- Christopher:
+- Zarrin: 
+# To-Do-List
+
+
+
+# Gantt Chart 
