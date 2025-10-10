@@ -11,10 +11,11 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Haiyan Wei
 
   # Goals
-  - Make 10 individual querries through the WorldWideImpoters database using Inner Join, Outer Joins & Cross joins. Chapter 3 material
+  - Make 10 individual querries through the WorldWideImpoters database using Scalar subqueries, Correlated subqueries, Derived tables & Common Table Expressions (CTEs). Chapter 4 & 5 material
   - Record individual MP4 videos of your project and submit on this repo.
   - Record in pairs and critic each other's querry submission. At minimum 5 querry review. SINGLE VIDEO.
   - MAKE SURE WE SUBMIT sql script in .ipynb file (Azure Data Studio)
+  - Complete To-do list
   - Complete the gantt chart.
 
   # Pairs
