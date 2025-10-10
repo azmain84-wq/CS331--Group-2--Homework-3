@@ -3,7 +3,7 @@ GO
 
 
 
-```sql
+
 /* lines priced above that order’s average line price */
 SELECT OL.OrderID, OL.OrderLineID, OL.StockItemID, OL.UnitPrice   -- pick line basics and price
 FROM Sales.OrderLines AS OL  -- from order lines table
@@ -166,4 +166,4 @@ CROSS APPLY   -- attach up to 5 latest invoices per customer
   ORDER BY I.InvoiceDate DESC, I.InvoiceID DESC   -- newest first, tie-break by id
 ) AS A  -- end APPLY
 ORDER BY C.CustomerID, A.InvoiceDate DESC, A.InvoiceID DESC;   -- final ordering of output
-```
+
