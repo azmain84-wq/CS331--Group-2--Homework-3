@@ -26,7 +26,7 @@ T-SQL Fundamental Projects for CSCI Group 2
   - Izaz
 
  # Links To Individual Videos
- - Shiwlee: 
+ - Shiwlee: https://youtu.be/7L7v1XgmsZ4
    
  - Zarrin: 
    
