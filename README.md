@@ -48,7 +48,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Eusan:
 - Shiwlee:
 - Haiyan: 
-- Izaz: b
+- Izaz: 
 - Christopher:
 - Zarrin: 
 # To-Do-List
