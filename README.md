@@ -20,7 +20,7 @@ T-SQL Fundamental Projects for CSCI Group 2
   # Pairs
   - Azmain :
   - Eusan : Zarrin
-  - Shiwlee : Eusan
+  - Shiwlee :
   - Haiyan :
   - Christopher
   - Izaz
