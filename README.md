@@ -28,7 +28,7 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Zarrin: https://www.youtube.com/watch?v=cn-biNZqUrs
    
- - Izaz: 
+ - Izaz: https://drive.google.com/file/d/1vZpnhPHVekFg2CV_mQJiedzHE_IdhK4P/view?usp=sharing
    
  - Azmain: https://youtu.be/brIyEYvCDoM
    
