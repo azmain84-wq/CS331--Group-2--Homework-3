@@ -49,9 +49,12 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Izaz: Group2_HW4_IzazChowdhury.ipynb
 - Christopher: ndividual_Group2_HW4-5_Christopher_Vidal-3.sql
 - Zarrin: Individual_Group2_HW4-5_Zarrin_Cherry-3.sql
+
 # To-Do-List
 - To Do List_Group 2_HW 4&5.xlsx
 
+# NACE
+- NACE (4).png
 
 
 # Gantt Chart 
