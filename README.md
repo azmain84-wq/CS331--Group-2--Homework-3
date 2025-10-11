@@ -42,13 +42,13 @@ T-SQL Fundamental Projects for CSCI Group 2
 - 
 
 # Individual Query Files
-- Azmain: 
-- Eusan:
+- Azmain: Azmain_Abrar_Group#2_HW#4&5_QueryScript.ipynb
+- Eusan: Group2_HW4&5_EusanMahatab.ipynb
 - Shiwlee:
-- Haiyan: 
-- Izaz: 
-- Christopher:
-- Zarrin: 
+- Haiyan: Group2_HW4-5_Haiyan_Wei.ipynb
+- Izaz: Group2_HW4_IzazChowdhury.ipynb
+- Christopher: ndividual_Group2_HW4-5_Christopher_Vidal-3.sql
+- Zarrin: Individual_Group2_HW4-5_Zarrin_Cherry-3.sql
 # To-Do-List
 
 
