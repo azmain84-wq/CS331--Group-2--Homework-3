@@ -58,3 +58,5 @@ T-SQL Fundamental Projects for CSCI Group 2
 
 
 # Gantt Chart 
+<img width="1020" height="417" alt="image" src="https://github.com/user-attachments/assets/690b7f88-608e-4df9-9e05-f7507626e276" />
+
