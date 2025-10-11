@@ -32,11 +32,11 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Azmain: 
    
- - Haiyan:https://youtu.be/aT4GUYF7Rig
+ - Haiyan: https://youtu.be/aT4GUYF7Rig
    
  - Eusan: 
    
- - Christopher: 
+ - Christopher: https://youtu.be/Ql41vpmgR1Q
 
  # Link To GROUP Peer Discussion
 - 
