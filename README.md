@@ -47,8 +47,8 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Shiwlee: Individual_Group2_HW4&5_Shiwlee_Rahman.ipynb
 - Haiyan: Group2_HW4-5_Haiyan_Wei.ipynb
 - Izaz: Group2_HW4_IzazChowdhury.ipynb
-- Christopher:Individual_Group2_HW4-5_Christopher_Vidal.ipynb
-- Zarrin: Individual_Group2_HW4-5_Zarrin_Cherry-3.sql
+- Christopher: Individual_Group2_HW4-5_Christopher_Vidal.ipynb
+- Zarrin: Individual_Group2_HW4-5_Zarrin_Cherry.ipynb
 
 # To-Do-List
 - <img width="1029" height="603" alt="image" src="https://github.com/user-attachments/assets/733012fa-0fbc-450c-b47f-c07460ebe166" />
