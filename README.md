@@ -30,7 +30,7 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Izaz: 
    
- - Azmain: 
+ - Azmain: https://youtu.be/brIyEYvCDoM
    
  - Haiyan: https://youtu.be/aT4GUYF7Rig
    
