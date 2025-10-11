@@ -19,12 +19,9 @@ T-SQL Fundamental Projects for CSCI Group 2
   - Complete the gantt chart.
 
   # Pairs
-  - Azmain :
+  - Azmain : Haiyan : Christopher
   - Eusan : Zarrin
-  - Shiwlee :
-  - Haiyan :
-  - Christopher
-  - Izaz
+  - Shiwlee : Izaz
 
  # Links To Individual Videos
  - Shiwlee: https://youtu.be/7L7v1XgmsZ4
