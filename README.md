@@ -54,7 +54,8 @@ T-SQL Fundamental Projects for CSCI Group 2
 - To Do List_Group 2_HW 4&5.xlsx
 
 # NACE
-- NACE (4).png
+- <img width="575" height="766" alt="image" src="https://github.com/user-attachments/assets/dffb5a78-5451-49b7-b42a-81de6c6bfe3e" />
+
 
 
 # Gantt Chart 
