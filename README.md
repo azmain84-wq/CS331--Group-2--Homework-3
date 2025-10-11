@@ -51,7 +51,14 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Zarrin: Individual_Group2_HW4-5_Zarrin_Cherry-3.sql
 
 # To-Do-List
-- To Do List_Group 2_HW 4&5.xlsx
+- <img width="1029" height="603" alt="image" src="https://github.com/user-attachments/assets/733012fa-0fbc-450c-b47f-c07460ebe166" />
+
+- <img width="1287" height="693" alt="image" src="https://github.com/user-attachments/assets/854da7f9-8280-4ee8-8c65-c2a4a31110d1" />
+
+- <img width="960" height="711" alt="image" src="https://github.com/user-attachments/assets/38142922-3b30-4fea-8496-462d80567a1e" />
+
+
+
 
 # NACE
 - <img width="575" height="766" alt="image" src="https://github.com/user-attachments/assets/dffb5a78-5451-49b7-b42a-81de6c6bfe3e" />
